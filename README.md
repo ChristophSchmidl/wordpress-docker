@@ -40,3 +40,7 @@
 * https://welaunch.io/de/2018/02/docker-tutorial/
 * https://medium.com/today-i-solved/wordpress-over-https-with-docker-ssl-ecaf02a47fea
 * https://jimfrenette.com/2018/05/wordpress-from-development-to-production-using-docker/
+
+## TODO
+
+[ ] Work through the tutorial and come up with a simple docker/docker-compose file: http://geekyplatypus.com/dockerise-your-php-application-with-nginx-and-php7-fpm/
