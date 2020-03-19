@@ -19,17 +19,17 @@
 * https://github.com/bitnami/bitnami-docker-wordpress-nginx
 	* 51 Stars	
 * https://github.com/mjstealey/wordpress-nginx-docker
-	* 373	
+	* 373 Stars
 * https://github.com/eugeneware/docker-wordpress-nginx
-	* 857	
+	* 857 Stars
 * https://github.com/urre/wordpress-nginx-docker-compose
-	* 159
+	* 159 Stars
 * https://github.com/TrafeX/docker-wordpress
-	* 121
+	* 121 Stars
 * https://github.com/raulr/nginx-wordpress-docker
-	* 44
+	* 44 Stars
 * https://github.com/gabidavila/docker-wordpress-ssl-nginx-mysql
-	* 3			
+	* 3 Stars	
 
 ## Tutorials 
 
