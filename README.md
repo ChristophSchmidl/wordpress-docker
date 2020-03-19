@@ -43,4 +43,4 @@
 
 ## TODO
 
-[ ] Work through the tutorial and come up with a simple docker/docker-compose file: http://geekyplatypus.com/dockerise-your-php-application-with-nginx-and-php7-fpm/
+- [ ] Work through the tutorial and come up with a simple docker/docker-compose file: http://geekyplatypus.com/dockerise-your-php-application-with-nginx-and-php7-fpm/
